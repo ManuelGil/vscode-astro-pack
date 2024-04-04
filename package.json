@@ -1,0 +1,69 @@
+{
+  "name": "vscode-astro-pack",
+  "displayName": "Astro Essentials Extension Pack",
+  "description": "🚀 Essential extensions for Astro development in Visual Studio Code.",
+  "version": "1.1.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "email": "support@imgil.dev",
+    "url": "https://imgil.dev/"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "astro",
+    "astrojs",
+    "javascript",
+    "js",
+    "json",
+    "node",
+    "nodejs",
+    "snippet",
+    "snippets",
+    "ts",
+    "typescript",
+    "vscode-extension",
+    "vscode"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-astro-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-astro-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-astro-pack/issues"
+  },
+  "extensionPack": [
+    "astro-build.astro-vscode",
+    "imgildev.vscode-astrodb-snippets",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "vivaxy.vscode-conventional-commits",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "shardulm94.trailing-spaces",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "christian-kohler.path-intellisense",
+    "yoavbls.pretty-ts-errors",
+    "gruntfuggly.todo-tree"
+  ]
+}

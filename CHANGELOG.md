@@ -1,0 +1,14 @@
+# Change Log
+
+All notable changes to the "Astro Essentials Extension Pack" extension pack will be documented in this file.
+
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [Unreleased]
+
+## [1.0.0] - 2024-04-04
+
+- Initial release
+
+[unreleased]: https://github.com/ManuelGil/vscode-astro-pack/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ManuelGil/vscode-astro-pack/releases/tag/v1.0.0
