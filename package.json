@@ -2,7 +2,7 @@
   "name": "vscode-astro-pack",
   "displayName": "Astro Essentials Extension Pack",
   "description": "🚀 Essential extensions for Astro development in Visual Studio Code.",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -46,6 +46,7 @@
   "extensionPack": [
     "astro-build.astro-vscode",
     "imgildev.vscode-astrodb-snippets",
+    "imgildev.vscode-auto-barrel",
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
     "vivaxy.vscode-conventional-commits",
