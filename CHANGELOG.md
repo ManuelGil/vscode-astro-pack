@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.2.0] - 2024-11-17
+
+### Added
+
+- Add JSON Flow extension
+
 ## [1.1.0] - 2024-04-21
 
 ### Added
@@ -17,5 +23,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 [unreleased]: https://github.com/ManuelGil/vscode-astro-pack/compare/v1.1.0...HEAD
+[1.2.0]: https://github.com/ManuelGil/vscode-astro-pack/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/ManuelGil/vscode-astro-pack/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/ManuelGil/vscode-astro-pack/releases/tag/v1.0.0
